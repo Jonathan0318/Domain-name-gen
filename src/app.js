@@ -31,5 +31,5 @@ let pronouns = ['the', 'our'];
     domainList.appendChild(li);
   }
 
-  console.log(]);
+  console.log();
 };
